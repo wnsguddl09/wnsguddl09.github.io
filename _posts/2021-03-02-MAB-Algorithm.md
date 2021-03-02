@@ -10,9 +10,7 @@ tags: [books, test]
 
 어떤 슬롯머신이 어떤 수익률을 가지는지 모를 때,
 
-탐색(Exploration)과 활용(Exploitation)을 
-
-적절히 사용하여
+탐색(Exploration)과 활용(Exploitation)을 적절히 사용하여
 
 최적의 수익을 찾아내고자 하는 강화학습 알고리즘!
 
