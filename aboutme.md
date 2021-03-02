@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: CV를 보고 싶나요?
 ---
-you can [get the 준형이의 CV](/assets/Awesome_CV.pdf) directly.
+[여기만 클릭](/assets/Awesome_CV.pdf) 하시면 바로 볼 수 있습니다.
 
