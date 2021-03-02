@@ -5,7 +5,7 @@ subtitle: MAB의 기본 아이디어
 tags: [books, test]
 ---
 
-![TEST](/assets/images/slot.jpg)
+![slot](/assets/img/slot.jpg)
 
 
 어떤 슬롯머신이 어떤 수익률을 가지는지 모를 때,
