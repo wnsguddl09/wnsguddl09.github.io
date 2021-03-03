@@ -2,7 +2,7 @@
 layout: post
 title: MAB 알고리즘이란?
 subtitle: MAB의 기본 아이디어 
-tags: []
+tags: [MAB]
 ---
 
 ![slot](/assets/img/slot.jpg)
