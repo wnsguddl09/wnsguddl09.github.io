@@ -1,0 +1,10 @@
+---
+layout: post
+title: 문장에서 sql변환
+subtitle: seq2sql
+tags: [seq2sql]
+---
+
+https://smilegate.ai/2020/08/11/text-to-sql/
+
+https://arxiv.org/pdf/1709.00103.pdf
