@@ -16,9 +16,9 @@ author: 준형이의 하루하루 2번째
 navbar-links:
   About Me: "aboutme"
   Kategorie:
-    - RL: "https://beautifuljekyll.com"
-    - NLP: "https://www.markdowntutorial.com/"
-    - ision: "https://www.markdowntutorial.com/"
+    - RL: "https://wnsguddl09.github.io/tags/#RL"
+    - NLP: "https://wnsguddl09.github.io/tags/#NLP"
+    - Vision: "https://wnsguddl09.github.io/tags/#Vision"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
