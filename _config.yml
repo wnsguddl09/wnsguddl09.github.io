@@ -14,7 +14,7 @@ author: 준형이의 하루하루 2번째
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://wnsguddl09.github.io/assets/Awesome_CV.pdf"
   Kategorie:
     - RL: "https://wnsguddl09.github.io/tags/#RL"
     - NLP: "https://wnsguddl09.github.io/tags/#NLP"
