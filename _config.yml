@@ -104,7 +104,7 @@ navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
 #page-col: "#FFFFFF"
 text-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#FFFFFF"
 hover-col: "#0085A1"
 footer-col: "#FFFFFF"
 footer-text-col: "#000000"
@@ -142,15 +142,15 @@ page-img: "/assets/img/back.jpg"
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+matomo:
+  site_id: "9"
+  uri: "demo.wiki.pro"
+  opt-out: true
 
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: wnsguddl09-github-io.disqus.com
+#disqus: wnsguddl09-github-io.disqus.com
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
